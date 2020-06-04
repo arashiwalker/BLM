@@ -4038,7 +4038,7 @@ input[type=button].btn-block {
   content: "";
   background: no-repeat center center;
   background-size: 100% 100%;
-  background-image: url('../assets/img/fist.webp')!important;
+  background-image: url('../assets/img/fist.png')!important;
 }
 
 @media (max-width: 575.98px) {
